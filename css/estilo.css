@@ -37,13 +37,13 @@ h1,h2,h3,h4,h5{
 }
 .logo{
     font-size: 1.9em;
-    color: #de423a;
+    color: #db86f5;
     padding: 10px;
     font-family: 'Sacramento', cursive;
         
 }
 .main-header__contactInfo__phone{
-    background:#de423a;
+    background:#db86f5;
     color: #fff;
     padding: 10px;
     margin: 0;
@@ -131,10 +131,10 @@ h1,h2,h3,h4,h5{
     
 }
 .menu__link:hover{
-     background-color: #DE423A;
+	background-color:#db86f5;
 }
 .menu__link--select{
-    background-color: #DE423A;
+    background-color:#db86f5;
     
 }
 .mostrar{
@@ -176,7 +176,7 @@ h1,h2,h3,h4,h5{
 
 /*----------------Estilos Principales------------------*/
 .group--color .container{
-	background-color: #DE423A;
+	background-color:#db86f5;
 	padding: 10px;
 	text-align: center;
 	
@@ -199,7 +199,7 @@ h1,h2,h3,h4,h5{
 	text-align: center;
 	text-decoration: none;
 	width: 120px;
-	background: #DE423A;
+	background: #db86f5;
 	color: #fff;
 	padding:10px;
 	margin: 10px auto;
@@ -231,7 +231,7 @@ h1,h2,h3,h4,h5{
 }
 .today-special__price{
 	font-size: 1.5em;
-	color: #DE423a;
+	color: #db86f5;
 	font-weight: bold;
 }
 
